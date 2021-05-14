@@ -1,3 +1,3 @@
 # Vibranota
 
-Dispositivo eletrônico para auxiliar deficientes auditivos há escutar notas musicais.
+Dispositivo eletrônico para auxiliar deficientes auditivos na percepção de notas musicais.
